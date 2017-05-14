@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226711019576",
+    "project_id": "niks-153112"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226711019576:android:2baf15df34dced0c",
+        "android_client_info": {
+          "package_name": "com.niks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226711019576-il6mgllfiefr1j9plv2pl0lqdq9p26ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niks",
+            "certificate_hash": "437e97864499600647d61f11efb15317dc3c09e3"
+          }
+        },
+        {
+          "client_id": "226711019576-75dtbduiq62kd1lil31qlgh0a8mmpdt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPkGRYcJDFxuTGtEgv1RTwpZFJe5-Kt0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
